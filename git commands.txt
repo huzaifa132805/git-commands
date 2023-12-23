@@ -1,0 +1,24 @@
+git status 
+
+check the status 
+
+
+to add a new file
+1. git add file name
+
+  to add a new/change file  
+
+
+2. git commit -m "added new file"
+
+  to make the changes 
+
+3. git push origin main
+
+  to push and make the changes in the repo
+
+
+git clone url 
+
+to clone the repo
+
